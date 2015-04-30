@@ -1,0 +1,1 @@
+var file1={},file2={},file2_addon={},file2_another={};
